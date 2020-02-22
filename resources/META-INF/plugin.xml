@@ -1,0 +1,31 @@
+<idea-plugin>
+  <id>com.ayubrains.theme</id>
+  <name>AyuBrains</name>
+  <version>0.1</version>
+
+  <description><![CDATA[
+      Just a fork of Ayu for JetBrains stuff. Thanks for looking!
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Initialized theme... not sure how this will go.
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="01800b94-2f4c-46c4-870e-e6f108e2ad44" path="/null"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
