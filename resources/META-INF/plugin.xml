@@ -1,7 +1,9 @@
 <idea-plugin>
-  <id>com.ayubrains.theme</id>
+  <id>com.ayubrains.ayubrains-theme</id>
   <name>AyuBrains</name>
   <version>0.1</version>
+  <vendor email="bcolumbiapsn@gmail.com"
+          url="https://github.com/billcolumbia/AyuBrains">Bill Columbia</vendor>
 
   <description><![CDATA[
       Just a fork of Ayu for JetBrains stuff. Thanks for looking!
