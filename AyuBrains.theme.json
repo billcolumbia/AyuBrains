@@ -1,4 +1,3 @@
-
 {
   "name": "AyuBrains",
   "dark": true,
@@ -24,12 +23,12 @@
 
       "errorForeground": "#cd3359",
 
-      "borderColor": "#343D4A",
-      "disabledBorderColor": "#2d3137",
+      "borderColor": "#191E2A",
+      "disabledBorderColor": "#191E2A",
       "focusColor": "#21252b",
       "focusedBorderColor": "#568AF2",
 
-      "separatorColor": "#32363c"
+      "separatorColor": "#191E2A"
     },
 
     "ActionButton": {
@@ -60,8 +59,8 @@
     },
 
     "Borders": {
-      "color": "#333841",
-      "ContrastBorderColor": "#333841"
+      "color": "#191E2A",
+      "ContrastBorderColor": "#191E2A"
     },
 
     "ComboBox": {
@@ -104,7 +103,7 @@
     "DragAndDrop": {
       "areaForeground": "#abb2bf",
       "areaBackground": "#323844",
-      "areaBorderColor": "#46494f"
+      "areaBorderColor": "#191E2A"
     },
 
     "Editor": {
@@ -139,8 +138,8 @@
       "visitedForeground": "#6494ed"
     },
 
-    "MenuBar.borderColor": "#46494f",
-    "Menu.borderColor": "#2d3137",
+    "MenuBar.borderColor": "#191E2A",
+    "Menu.borderColor": "#191E2A",
 
     "NavBar.borderColor": "#46494f",
 
@@ -313,7 +312,7 @@
       "Header": {
         "background": "#414855",
         "inactiveBackground": "#212733",
-        "borderColor": "#21252b"
+        "borderColor": "#191E2A"
       },
 
       "HeaderTab": {
