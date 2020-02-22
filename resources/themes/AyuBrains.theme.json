@@ -141,11 +141,11 @@
     "MenuBar.borderColor": "#191E2A",
     "Menu.borderColor": "#191E2A",
 
-    "NavBar.borderColor": "#46494f",
+    "NavBar.borderColor": "#191E2A",
 
     "Notification": {
       "background": "#3d424b",
-      "borderColor": "#53565f",
+      "borderColor": "#191E2A",
 
       "errorForeground": "#abb2bf",
       "errorBackground": "#4d232e",
@@ -195,7 +195,7 @@
       },
 
       "SearchField": {
-        "background": "#282c34",
+        "background": "#212733",
         "borderColor": "#1b1d21"
       },
 
@@ -235,7 +235,7 @@
       "Header.background": "#21252b",
 
       "SearchField":{
-        "background": "#282c34",
+        "background": "#30394A",
         "borderColor": "#1b1d21"
       },
 
@@ -258,7 +258,7 @@
     },
 
     "TabbedPane": {
-      "underlineColor": "#568AF2",
+      "underlineColor": "#FFCC66",
       "contentAreaColor": "#323844",
       "hoverColor": "#323844"
     },
@@ -280,12 +280,12 @@
     },
 
     "TextArea": {
-      "background": "#282c34",
+      "background": "#30394A",
       "selectionBackground": "#414855"
     },
 
     "TextField": {
-      "background": "#282c34",
+      "background": "#30394A",
       "selectionBackground": "#414855"
     },
 
@@ -324,9 +324,12 @@
     },
 
     "Tree": {
+      "background": "#1F2430",
       "selectionBackground": "#4d78cc",
       "modifiedItemForeground": "#568AF2",
-      "rowHeight": 20
+      "rowHeight": 20,
+      "paintLines": true,
+      "hash": "#323A4D"
     },
 
     "ValidationTooltip": {
